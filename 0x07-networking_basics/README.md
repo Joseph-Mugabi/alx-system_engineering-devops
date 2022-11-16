@@ -36,5 +36,5 @@ Basics of networking: OSI Model , LAN, WLAN, Internet, IP addresses (IPv4, IPv6)
 
 # Author
 ## Mugabi Joseph
-## ![joseph](https://twitter.com/home)
+## [@twitter.com](https://twitter.com/home"@joseph_mugabi")
 
