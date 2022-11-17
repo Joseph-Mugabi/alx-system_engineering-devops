@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Bash script configures an Ubuntu server and change
+#+ localhost addresses "to be run in Docker container; else revert hostfile back"
+
+cp /etc/hosts hosts_tmp
+sed -i s/127.*$/127.0.0.2\\tlocalhost\\n8.8.8.8\\tfacebook.com/g hosts_tmp
+cp -f hosts_tmp /etc/hosts
