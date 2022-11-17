@@ -146,4 +146,4 @@ u’re debugging socket connection issues, or you’re trying to connect to a so
 ---
 # Author
 ## Mugabi Joseph
-## @twitter.com/joseph_mugabi
+## [joseph_mugabi](https://twitter.com/joseph_mugabi "twitter")
