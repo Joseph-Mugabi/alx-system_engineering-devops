@@ -138,5 +138,5 @@ Here we can see that my Bash PID is ```4404```
 # Author
 ## Mugabi Joseph
 ## [@joseph_mugabi](https://twitter.com/home "twitter.com")
-## [@Joseph-Mugabi](Joseph-Mugabi (Mugabi Joseph) (github.com))
-## [Joseph](www.linkedin.com/in/mugabijoseph "Linkedin.com")
+## [@Joseph-Mugabi](Joseph-Mugabi (Mugabi Joseph) (github.com)"github.com")
+## [Joseph](https://www.linkedin.com/in/mugabijoseph "Linkedin.com")
