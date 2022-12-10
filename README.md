@@ -7,4 +7,5 @@
 ## [ 0x05. Processes and signals](https://github.com/Joseph-Mugabi/alx-system_engineering-devops/tree/master/0x05-processes_and_signals)
 ## [0x06-regular_expressions](https://github.com/Joseph-Mugabi/alx-system_engineering-devops/tree/master/0x06-regular_expressions)
 ## [0x07-networking_basics](https://github.com/Joseph-Mugabi/alx-system_engineering-devops/tree/master/0x07-networking_basics)
-## [0x08. Networking basics #1]() 
+## [0x08. Networking basics #1](https://github.com/Joseph-Mugabi/alx-system_engineering-devops/tree/master/0x08-networking_basics_2) 
+## [0x09. Web infrastructure design]()
