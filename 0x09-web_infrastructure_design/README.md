@@ -1,23 +1,24 @@
 # alx-system_engineering-devops
 ![](https://alx-intranet.hbtn.io/images/challenge2022/get-started.jpg)
-![](https://youtu.be/lQNEW76KdYg)
+
+![](https://www.youtube.com/watch?v=lQNEW76KdYg)
 ## Web infrastructure design
 ### Description of Web infrastructure design as it follows:
-* :wqFiles above in this repository have a visual drawing whiteboard of web infrastructures, from a Simple web stack, to a Distributed web infrastructure, to a Secured and Monitored web infrastructure, to a Scale up. Each builds on one other.
+* Files above in this repository have a visual drawing whiteboard of web infrastructures, from a Simple web stack, to a Distributed web infrastructure, to a Secured and Monitored web infrastructure, to a Scale up. Each builds on one other.
 
 ### Simple web stack
-![](blob:https://web.telegram.org/5436ad06-54d2-4d57-89ad-2ecf8ce1db9b)
+![](https://www.udrop.com/cache/plugins/filepreviewer/819855/f029d217602572cb3d88c03edfd4d57aba86e6e6e8f160da396c70ce05fd2bdb/1100x800_cropped.jpg)
 
 ### Distributed web infrastructure
-![](blob:https://web.telegram.org/e5298396-3aaa-44c8-bcbe-0c5c79125bf8)
+![](https://www.udrop.com/cache/plugins/filepreviewer/819852/8b682d92056078e7b94b87aec4265557cea28dd7f16a39773ea215210465faeb/1100x800_cropped.jpg)
 ### Secured and monitored web infrastructure
 
-![](blob:https://web.telegram.org/3015a3b5-0e91-489b-91f1-7b805d08ae93)
+![](https://www.udrop.com/cache/plugins/filepreviewer/819853/1109a7f5225384b4aabef4e624ab39e39d2246bb0ccec43f8c84dfb01dd13224/1100x800_cropped.jpg)
 
 ### Scale up
 #### Readme
 * [Application server vs web server](https://www.nginx.com/resources/glossary/application-server-vs-web-server/)
-![](blob:https://web.telegram.org/a4f78e0f-e1f1-458d-9a8d-165f0d7286b7)
+![](https://www.udrop.com/cache/plugins/filepreviewer/819856/871e8154cce38b63e0b11e184d6c81601dabc29296e63fa42f0f0bb0b0b28427/1100x800_cropped.jpg)
 ---
 ## Authors
 ### [Joseph.M](https://twitter.com/home)
