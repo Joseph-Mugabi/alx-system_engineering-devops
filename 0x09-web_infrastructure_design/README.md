@@ -3,7 +3,7 @@
 ![](https://youtu.be/lQNEW76KdYg)
 ## Web infrastructure design
 ### Description of Web infrastructure design as it follows:
-> Files above in this repository have a visual drawing whiteboard of web infrastructures, from a Simple web stack, to a Distributed web infrastructure, to a Secured and Monitored web infrastructure, to a Scale up. Each builds on one other.
+* :wqFiles above in this repository have a visual drawing whiteboard of web infrastructures, from a Simple web stack, to a Distributed web infrastructure, to a Secured and Monitored web infrastructure, to a Scale up. Each builds on one other.
 
 ### Simple web stack
 ![](blob:https://web.telegram.org/5436ad06-54d2-4d57-89ad-2ecf8ce1db9b)
